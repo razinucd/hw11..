@@ -1,0 +1,10 @@
+#hw11
+
+L = int(input("enter a length for the rectangle"))
+
+W =int(input(" enter the width of rectangle"))
+
+
+A= L * W
+
+print (A
